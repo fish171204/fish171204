@@ -14,14 +14,8 @@
 ###
 [![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=alexcao194&theme=react-dark)](https://github.com/alexcao194)
 
-<div align="center">
-  <image src="cat.gif">
-</div>
 
 
-## ![](https://komarev.com/ghpvc/?username=alexcao194&color=238dd9&style=flat&label=VIEWS)
-
-  
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
