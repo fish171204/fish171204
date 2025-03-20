@@ -16,4 +16,7 @@
 ###
 [![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=fish171204&theme=react-dark)](https://github.com/fish171204)
 
+<div align="center">
+  <image src="cat.gif">
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
