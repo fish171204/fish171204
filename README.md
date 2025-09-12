@@ -1,8 +1,7 @@
 <h1 align="center"> 
-  🖐Hi, I'm Khoa, welcome to my git! 
+👋 Hi, I'm Khoa — Fullstack Mobile Developer, welcome to my git! 
 </h1>
 
-# 💻 Tech Stack:
 <p>
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
