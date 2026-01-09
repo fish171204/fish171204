@@ -1,40 +1,75 @@
 <h1 align="center"> 
-👋 Hi, I'm Khoa — Fullstack Mobile Developer, welcome to my git! 
+Hi, I'm Khoa — Fullstack Mobile Developer
 </h1>
 
-<p>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" height="80" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="80" alt="react native logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="80" alt="dart logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swift" height="80" alt="swift logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="80" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="80" alt="typescript logo" />
 
+  <br/>
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=go" height="80" alt="go logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="80" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="80" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="80" alt="springboot logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="80" alt="dotnet logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="80" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="80" alt="cpp logo" />
+
+  <br/>
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=aws" height="80" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="80" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="80" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="80" alt="postgres logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="80" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="80" alt="redis logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="80" alt="docker logo" />
+    <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="80" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="80" alt="gitlab logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="80" alt="androidstudio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="80" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="80" alt="postman logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="80" alt="figma logo" />
+  <br/>
+ 
+</div>
+
+<br/>
 
 
 
