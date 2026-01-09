@@ -54,13 +54,7 @@ Hi, I'm Khoa — Fullstack Mobile Developer
 
  <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="80" alt="github logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="80" alt="gitlab logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="80" alt="androidstudio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="80" alt="vscode logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="80" alt="postman logo" />
   <img width="12" />
