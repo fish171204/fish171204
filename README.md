@@ -1,5 +1,5 @@
-<h1 align="center"> 
-Hi, I'm Khoa — Fullstack Mobile Developer
+<h1 align="left"> 
+🙋🏼 Hi, I'm Khoa — Fullstack Mobile Developer
 </h1>
 
 <div align="left">
