@@ -2,7 +2,7 @@
 Hi, I'm Khoa — Fullstack Mobile Developer
 </h1>
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="80" alt="flutter logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="80" alt="react native logo" />
