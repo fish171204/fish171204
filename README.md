@@ -63,16 +63,22 @@
  
 </div>
 
+<div align="left">
+  <h3>🌌 Most Used Languages</h3>
+  <a href="https://github.com/fish171204">
+    <img src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=fish171204&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit" alt="Top Langs" />
+  </a>
+</div>
+
 <br/>
 
 
 
-
-| 🌌 My Github Stats             | 🌌 My most used languages |
+<!-- | 🌌 My Github Stats             | 🌌 My most used languages |
 :-:|:-:
 [![Stats](https://acedev003-readme-stats.vercel.app/api?username=fish171204&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/fish171204)|[![Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=fish171204&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake,Batchfile,VBscript,autoit)](https://github.com/fish171204)
 </table>
-  </div>
+  </div>-->
 
 ###
 [![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=fish171204&theme=react-dark)](https://github.com/fish171204)
