@@ -58,6 +58,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="80" alt="jenkins logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="80" alt="kubernetes logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="80" alt="docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo" />
