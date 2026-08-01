@@ -16,7 +16,9 @@
   <img src="https://skillicons.dev/icons?i=js" height="80" alt="javascript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="80" alt="typescript logo" />
-
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="80" alt="nestjs logo" />
+  <img width="12" />
   <br/>
   <br/>
 
@@ -33,6 +35,15 @@
   <img src="https://skillicons.dev/icons?i=cs" height="80" alt="csharp logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="80" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="80" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="80" alt="postgres logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="80" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="80" alt="redis logo" />
+  <img width="12" />
 
   <br/>
   <br/>
@@ -41,24 +52,22 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="80" alt="firebase logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="80" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="80" alt="grafana logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="80" alt="postgres logo" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="80" alt="kafka logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="80" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="80" alt="redis logo" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="80" alt="jenkins logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="80" alt="docker logo" />
-    <img width="12" />
-
- <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="80" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="80" alt="gitlab logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="80" alt="postman logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="80" alt="figma logo" />
+  <img width="12" />
   <br/>
  
 </div>
